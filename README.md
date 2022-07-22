@@ -5,7 +5,7 @@
 
 
 
-I'm a Computer Science graduate focusing on Blockchain solutions and dApp development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Computer Science graduate focusing on Blockchain solutions and dApp development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 I like playing basketball in my free time.
 

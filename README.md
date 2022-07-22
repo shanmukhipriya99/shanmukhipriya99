@@ -16,10 +16,18 @@ I like playing basketball in my free time.
 ## 📖  What I am currently learning / improving on
 
 <img src="https://img.shields.io/badge/hyperledger-2F3134?style=plastic&logo=hyperledger&logoColor=white" alt="Hyperledger logo" title="Hyperledger" height="25" /> &nbsp; <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white" alt="Go logo" title="Golang" height="25" /> &nbsp; <img src="https://img.shields.io/badge/mocha.js-323330?style=plastic&logo=mocha&logoColor=Brown" alt="Mocha logo" title="Mocha.js" height="25" /> &nbsp; <img src="https://img.shields.io/badge/chai.js-323330?style=plastic&logo=chai&logoColor=red" alt="Chai logo" title="Chai.js" height="25" /> &nbsp; <img src="https://img.shields.io/badge/sinon.js-323330?style=plastic&logo=sinon" alt="Sinon logo" title="Sinon.js" height="25" /> &nbsp;
+ - Blockchain architecture (Ethereum and Hyperledger).
+ - Smart Contracts (Solidity, Web3.js).
+ - Full Stack Development (JavaScript, NodeJS, React, Express).
 
 ## 👾  What I am interested in learning at some point
 
 <img src="https://img.shields.io/badge/chainlink-375BD2?style=plastic&logo=chainlink&logoColor=white" alt="Chainlink logo" title="Chainlink" height="25" /> &nbsp; <img src="https://img.shields.io/badge/polkadot-E6007A?style=plastic&logo=polkadot&logoColor=000" alt="Polkadot logo" title="Polkadot" height="25" /> &nbsp; <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /> &nbsp;
+
+ - Design patterns for blockchain (CEI, Secure Ether Transfer, Oracle, Proxy, among others).
+ - Smart Contracts (Ether.js, Moralis).
+ - Full Stack Development (TypeScript, Next.js, Ionic, etc).
+ - Zero Knowledge Proof, Governance, DAO.
 
 
 <!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <!-- <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> -->

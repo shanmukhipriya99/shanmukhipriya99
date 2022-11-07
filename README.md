@@ -34,10 +34,10 @@ I like playing basketball in my free time.
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=shanmukhipriya99)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<p>
+<!-- <p>
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=shanmukhipriya99&theme=gotham&show_icons=true&hide=prs&count_private=true&show_owner=true" /> 
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukhipriya99&layout=compact&theme=gotham&card_width=400" />
-</p>
+</p> -->
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shanmukhipriya99)  
 

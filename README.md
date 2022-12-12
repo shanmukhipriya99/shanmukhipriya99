@@ -47,7 +47,7 @@ I like playing basketball in my free time.
 
 ![Profile views](https://gpvc.arturio.dev/shanmukhipriya99)   -->
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect with you!</b> 😊</em> 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'd be happy to connect with you!</b> 😊</em> 
 ## Connect with me:
 <p align="left">
 <a href="https://twitter.com/shanmukhipriya" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/37501487/180303957-73178288-35c9-4baf-9643-11b53449b498.gif"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
